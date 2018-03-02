@@ -16,8 +16,8 @@ We will assign tasks by dividing the work equally among us, and communicating th
 We will check each others code for functionality. We will also set mini-deadlines to stay on track. Write tests as we go to double check the code.
 
 
-## How will will communicate difficulties with a task assigned to us
-
+## How will we communicate difficulties with a task assigned to us
+We will use our group message to ask for help when needed. We will not wait until the last minute to ensure there is enough time to complete the project.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
