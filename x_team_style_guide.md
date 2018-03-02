@@ -1,6 +1,6 @@
 # X-Team 68 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+<We will focus on making our coding style consistent. We will use basic coding style, and comment on complicated code.>
 
 ## Naming conventions
 
