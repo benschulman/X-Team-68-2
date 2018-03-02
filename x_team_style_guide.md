@@ -1,6 +1,6 @@
 # X-Team 68 Style Guide
 
-<We will focus on making our coding style consistent. We will use basic coding style, and comment on complicated code.>
+<We will focus on making our coding style consistent. We will use basic/generic commenting style, and make sure to comment on complicated code that might confuse the group.>
 
 ## Naming conventions
 
