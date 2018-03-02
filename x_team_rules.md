@@ -21,7 +21,7 @@ We will use our group message to ask for help when needed. We will not wait unti
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We will make mini deadlines and check each other codes whether the person finished the a portion of code.
 
 
 
