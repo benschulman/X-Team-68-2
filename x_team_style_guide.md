@@ -4,22 +4,22 @@
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+We are going to use the naming convetions that we used in CS300.
 
 ### Examples
-* interfaces
-* classes
-* exception types
-* fields
-* methods
-* parameters
-* local variables
-* instance constants
-* class constants
+* interfaces: We will use caps for interfaces e.g. "InterfaceName"
+* classes: We will use caps for classes e.g. "ClassName"
+* exception types: We will use caps for exeptions e.g. "ExceptionName"
+* fields: lower case with camel casing e.g. "fieldName"
+* methods: lower case with camel casing e.g. "methodName"
+* parameters: lower case with camel casing e.g. "parameterName"
+* local variables: lower case with camel casing e.g. "localVariableName"
+* instance constants: All caps with underscores e.g. "INSTANCE_CONSTANTS"
+* class constants: All caps with underscores e.g. "CLASS_CONSTANTS"
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
+<Use inline comments to clarify. And javadocs for public and private feilds>
 
 ### Examples
 
