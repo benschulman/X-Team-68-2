@@ -8,8 +8,8 @@
        * GitHub username 3: newsatit
        * GitHub username 4: edenschuette
        * GitHub username 5: benschulman
-   * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+   * When did you complete this exercise? 7:37pm
+   * How long did it take your team to complete this exercise? 30 minutes
 
 ## Table of Contents
 
