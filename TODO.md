@@ -1,4 +1,4 @@
-# X-Team Exercise #2 TODO
+# X-Team Exercise #2 TODO I Edited it
 
 This document describes what X-team members must do to complete X-Team Exercise #2.  
 
