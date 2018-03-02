@@ -19,7 +19,7 @@ We are going to use the naming convetions that we used in CS300.
 
 ## Commenting style for public and private members of a class or interface:
 
-<Use inline comments to clarify. And javadocs for public and private feilds>
+Use inline comments to clarify. And javadocs for public and private feilds
 
 ### Examples
 
